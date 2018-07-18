@@ -1,6 +1,6 @@
 # Whole Wheat Focaccia with Rosemary
 
-[[https://github.com/robbollons/recipes/blob/master/bread/focaccia.jpg|alt=Whole Wheat Focaccia with Rosemary|width=200]]
+![](https://github.com/robbollons/recipes/blob/master/bread/focaccia.jpg | alt=Whole Wheat Focaccia with Rosemary | width=200)
 
 ## Ingredients
  * 400g Whole Wheat Bread Flour
