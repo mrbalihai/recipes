@@ -22,7 +22,7 @@
 
 > [!TIP]
 > - You can use chocolate protein powder and half a tsp of cocoa powder to make chocolate pancakes.
-> - To stop the pancakes sticking to the pan, make sure the pan isn't too hot. For some reason unknown to modern science, the first pancake doesn't ways turn out right 🤷‍♂️
+> - To stop the pancakes sticking to the pan, make sure the pan isn't too hot. For some reason unknown to modern science, the first pancake doesn't always turn out right 🤷‍♂️
 
 ## Macros
 |                          | kcal | Protein | Carbs | Fats |
