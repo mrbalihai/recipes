@@ -1,3 +1,4 @@
+# Recipes
 - Bread
     - [Whole Wheat Focaccia](bread/whole-wheat-focaccia.md)
 - Desserts
