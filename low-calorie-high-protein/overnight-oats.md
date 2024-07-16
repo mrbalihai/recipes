@@ -16,11 +16,12 @@
     * 1tsp Sweetner (e.g. aspartame. Approx, adjust to taste)
 - Black Forest Chocolate
     * +20ml Water (or milk of choice if preferred)
+    * Use Chocolate Protein Powder in the base
     * 5g Cocoa Powder [^2]
     * 1tsp Sweetner (e.g. aspartame. Approx, adjust to taste)
     * Top with 40g frozen berries
 - Lemon
-    * Use plain or vanilla protein powder in the base
+    * Use Plain or Vanilla Protein Powder in the base
     * 15ml Lemon Juice (Approx, adjust to taste)
     * 1tsp Sweetner (e.g. aspartame. Approx, adjust to taste)
 
