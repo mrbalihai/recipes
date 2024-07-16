@@ -34,7 +34,7 @@
 
 > [!TIP]
 > - It's quite versatile so you can experiment quite a bit with the ingredients.
-> - Best enjoyed in the morning but also as a meal replacement.
+> - Best enjoyed in the morning but also as a near nutritionally complete meal replacement.
 > - If eating pre-workout, ideally eat 1-2 hours before to give time for your body to get the energy from the food.
 
 ## Macros
