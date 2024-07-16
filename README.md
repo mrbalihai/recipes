@@ -4,7 +4,7 @@
     - [Whole Wheat Focaccia](bread/whole-wheat-focaccia.md)
 - Desserts
     - [Lime Bars](desserts/lime-bars.md)
-    - [Chocolate Cake with Chocolate Buttercream](cake/chocolate-cake.md)
+    - [Chocolate Cake with Chocolate Buttercream](desserts/chocolate-cake.md)
 
 ## Low Calorie & High Protein
 - [Overnight Oats](low-calorie-high-protein/overnight-oats.md)
