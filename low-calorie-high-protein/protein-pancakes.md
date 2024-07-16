@@ -23,3 +23,7 @@
 > [!TIP]
 > You can use chocolate protein powder and half a tsp of cocoa powder to make chocolate pancakes.
 
+## Macros
+|                          | kcal | Protein | Carbs | Fats |
+| ------------------------ |------| ------- |------ |----- |
+| **Batter**               | 270  | 18g     | 19g   | 10g  |
