@@ -5,7 +5,7 @@
  * 30g Rolled Oats
  * 20g Protein Powder (vanilla or unflavoured)
  * 1 Egg
- * 120ml Unsweetened Almond Milk
+ * 100ml Unsweetened Almond Milk
  * 1tsp Vanilla Extract (if using unflavoured protein powder)
  * 1/2tsp Baking Powder
 
