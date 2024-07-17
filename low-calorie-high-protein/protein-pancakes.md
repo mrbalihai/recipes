@@ -1,11 +1,14 @@
 # Protein Pancakes
+
+![protein-pancakes](https://github.com/user-attachments/assets/0a3b05d1-7314-4b7f-ade7-7c344b1aeda8)
+
 ## Ingredients
 
 ### Batter
  * 30g Rolled Oats
  * 20g Protein Powder (vanilla or unflavoured)
  * 1 Egg
- * 100ml Unsweetened Almond Milk
+ * 100ml Unsweetened Almond Milk (or other milk of choice) [^1]
  * 1tsp Vanilla Extract (if using unflavoured protein powder)
  * 1/2tsp Baking Powder
 
@@ -18,7 +21,7 @@
 6. Serve with your favourite toppings e.g A dollop of greek yoghurt and fruit
 
 > [!NOTE]
-> Makes about 3 small pancakes usually.
+> Makes about 3-4 small pancakes usually.
 
 > [!TIP]
 > - You can use chocolate protein powder and half a tsp of cocoa powder to make chocolate pancakes.
@@ -28,3 +31,5 @@
 |                          | kcal | Protein | Carbs | Fats |
 | ------------------------ |------| ------- |------ |----- |
 | **Batter**               | 270  | 18g     | 19g   | 10g  |
+
+[^1]: Use less milk if you prefer thicker pancakes
